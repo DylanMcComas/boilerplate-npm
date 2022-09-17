@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dylan McComas",
+	"description": "A project that I'm learning Node.js with",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
